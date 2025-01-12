@@ -1,5 +1,5 @@
 {
-  "name": "oxdown",
+  "name": "rxup",
   "type": "module",
   "version": "0.0.0-alpha.1",
   "description": "_desc_",
@@ -8,12 +8,12 @@
   "publishConfig": {
     "access": "public"
   },
-  "homepage": "https://github.com/Sunny-117/oxdown#readme",
+  "homepage": "https://github.com/Sunny-117/rxup#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sunny-117/oxdown.git"
+    "url": "git+https://github.com/Sunny-117/rxup.git"
   },
-  "bugs": "https://github.com/Sunny-117/oxdown/issues",
+  "bugs": "https://github.com/Sunny-117/rxup/issues",
   "keywords": [],
   "sideEffects": false,
   "exports": {
